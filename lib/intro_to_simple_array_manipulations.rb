@@ -1,8 +1,8 @@
-def using_concat()
-  
+def using_concat(array, array2)
+  array.concat(array2)
 end
 
-def using_insert()
+def using_insert(array, )
   
 end
 
@@ -14,7 +14,7 @@ def using_flatten()
   
 end
 
-def using_delete()
+def using_delete(array, )
   
 end
 
